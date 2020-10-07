@@ -1,0 +1,16 @@
+{
+  "id": "anylist",
+  "name": "Anylist",
+  "version": "1.0.0",
+  "description": "Anylist - The best way to create and share a grocery shopping list and organize your recipes.",
+  "main": "index.js",
+  "author": "mattsday <mattsday@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/mattsday/ferdi-anylist",
+  "config": {
+    "serviceURL": "https://www.anylist.com/web",
+    "hasTeamId": false,
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false
+  }
+}
