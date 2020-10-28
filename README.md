@@ -5,7 +5,7 @@ This is an [AnyList](https://www.anylist.com/) recipe for [Ferdi](https://github
 ## Requirements
 
 * An [AnyList Complete](https://www.anylist.com/complete) account
-* Franz or Ferdi version 5 or later (not tested on the latter)
+* Ferdi or Franz version 5 or later (not tested on the latter)
 
 ## Installation
 
@@ -21,16 +21,16 @@ You will need to copy this repo to one of the following locations:
 
 #### Ferdi Users
 
-| OS     | Location                                                 |
-|--------|----------------------------------------------------------|
+| OS      | Location                                                |
+|---------|---------------------------------------------------------|
 | Linux   | ~/.config/Ferdi/recipes/dev/anylist                     |
 | Windows | %appdata%/Ferdi/recipes/dev/anylist                     |
 | Mac OS  | ~/Library/Application Support/Ferdi/recipes/dev/anylist |
 
 #### Franz Users
 
-| OS     | Location                                                 |
-|--------|----------------------------------------------------------|
+| OS      | Location                                                |
+|---------|---------------------------------------------------------|
 | Linux   | ~/.config/Franz/recipes/dev/anylist                     |
 | Windows | %appdata%/Franz/recipes/dev/anylist                     |
 | Mac OS  | ~/Library/Application Support/Franz/recipes/dev/anylist |
@@ -47,7 +47,7 @@ Ensure the following files are put in to the directory specified above
 
 ## Configuring Ferdi/Franz
 
-After copying the files, **Restart Franz/Ferdi**
+After copying the files, **Restart Ferdi/Franz**
 
 Go to Settings, select **Available Services** and select **Custom Services**
 

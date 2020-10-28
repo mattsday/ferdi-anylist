@@ -1,8 +1,8 @@
 {
   "id": "anylist",
-  "name": "Anylist",
+  "name": "AnyList",
   "version": "1.0.0",
-  "description": "Anylist - The best way to create and share a grocery shopping list and organize your recipes.",
+  "description": "AnyList - The best way to create and share a grocery shopping list and organize your recipes.",
   "main": "index.js",
   "author": "mattsday <mattsday@gmail.com>",
   "license": "MIT",
